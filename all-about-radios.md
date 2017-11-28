@@ -3,69 +3,69 @@
 
 #### Receiving and decoding NOAA/METEOR Satellites
 
-- **Receiving NOAA Weather Satellite Images**
+- **Receiving NOAA Weather Satellite Images**  
   https://www.rtl-sdr.com/rtl-sdr-tutorial-receiving-noaa-weather-satellite-images/
 
-- **[HOWTO] Windows / RTL based APT/METEOR Satellite Weather Station**
+- **[HOWTO] Windows / RTL based APT/METEOR Satellite Weather Station**  
   http://init.sh/?p=275
 
-- **Receiving Meteor-M M2 LRPT Weather Satelitte images with an RTL-SDR**
+- **Receiving Meteor-M M2 LRPT Weather Satelitte images with an RTL-SDR**  
   https://www.rtl-sdr.com/rtl-sdr-tutorial-receiving-meteor-m-n2-lrpt-weather-satellite-images-rtl-sdr/
 
-- **Decoding Meteor-M2 Weather Satellite images in realtime with an RTL-SDR**
+- **Decoding Meteor-M2 Weather Satellite images in realtime with an RTL-SDR**  
   https://www.rtl-sdr.com/rtl-sdr-tutorial-decoding-meteor-m2-weather-satellite-images-in-real-time-with-an-rtl-sdr/
 
-- **How to receive Meteor-M N2 LRPT Weather Satellite images in VHF with an RTL-SDR dongle(pdf)**
+- **How to receive Meteor-M N2 LRPT Weather Satellite images in VHF with an RTL-SDR dongle(pdf)**  
   https://www.rtl-sdr.com/wp-content/uploads/2014/09/Happysat_Meteosat_LRPT_Tutorial.pdf
 
-- **Receiving GOES 16 Weather Satellite images with the Open Satellite Project**
+- **Receiving GOES 16 Weather Satellite images with the Open Satellite Project**  
   https://www.rtl-sdr.com/receiving-goes-16-weather-satellite-images-with-the-open-satellite-project/
 
-- **Receiving GOES Weather Satellite images with a small grid antenna**
+- **Receiving GOES Weather Satellite images with a small grid antenna**  
   https://www.rtl-sdr.com/receiving-goes-weather-satellite-images-with-a-small-grid-antenna-and-an-airspy-mini/
 
-- **Setting up a GOES Weather Satellite antenna system**
+- **Setting up a GOES Weather Satellite antenna system**  
   https://www.rtl-sdr.com/setting-up-a-goes-weather-satellite-antenna-system/
 
-- **Setting up a GOES Weather Satellite Antenna System**
+- **Setting up a GOES Weather Satellite Antenna System**  
   https://www.rtl-sdr.com/setting-up-a-goes-weather-satellite-antenna-system/
 
-- **APT Weather Satellite Reception - Decoding and Display Software**
+- **APT Weather Satellite Reception - Decoding and Display Software**  
   http://www.geo-web.org.uk/soft.php
 
-- **HAMSTUDY**
+- **HAMSTUDY**  
   https://hamstudy.org/
 
-- **NOAA 137 Weather Satellites**
+- **NOAA 137 Weather Satellites**  
   http://www.radioforeveryone.com/p/noaa-137-weather-satellites-software.html
 
-- **Setting up Satellite Tracking with SDR# and Orbitron**
+- **Setting up Satellite Tracking with SDR# and Orbitron**  
   https://www.rtl-sdr.com/video-tutorial-setting-satellite-tracking-sdrsharp-orbitron/
 
 #### Want to learn more about radios?
 
-- **What is I/Q Data?**
+- **What is I/Q Data?**  
   http://www.ni.com/tutorial/4805/en/
 
-- **Crystal Sets to Sideband**
+- **Crystal Sets to Sideband**  
   http://www.wa0itp.com/crystalsetsssb.html
 
-- **Getting licensed**
+- **Getting licensed**  
   http://www.arrl.org/getting-licensed
 
-- **No-Nonsense Study Guides**
+- **No-Nonsense Study Guides**  
   http://www.kb6nu.com/study-guides/
 
-- **Software Defined Radio with HackRF**
+- **Software Defined Radio with HackRF**  
   https://greatscottgadgets.com/sdr/
 
-- **Free Online Ham Radio Course**
+- **Free Online Ham Radio Course**  
   http://www.amateurradio.com/free-online-ham-radio-course/
 
-- **eHam.net Ham Exams**
+- **eHam.net Ham Exams**  
   http://www.eham.net/exams/
 
-- **SDR**
+- **SDR**  
   http://www.atouk.com/wordpress/?page_id=237#
 
 
