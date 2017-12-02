@@ -42,6 +42,9 @@
 - **Setting up Satellite Tracking with SDR# and Orbitron**  
   https://www.rtl-sdr.com/video-tutorial-setting-satellite-tracking-sdrsharp-orbitron/
 
+- https://github.com/gvandela/MeteorRpiReceiver
+
+
 #### Want to learn more about radios?
 
 - **What is I/Q Data?**  
@@ -91,6 +94,8 @@
 - http://lna4all.blogspot.com/
 - https://www.slidedoc.us/design-and-construction-of-a-quadrifilar-helix-antenna-for-receiving-noaa-satellites-1
 - http://www.g4ilo.com/qfh.html
+- http://www.qsl.net/py4zbz/dca.htm
+
 
 #### Tools/filters
 
@@ -112,6 +117,27 @@
 - http://www.wa4dsy.net/filter/filterdesign.html
 
 
+#### All about GNURadio(Installation, Tutorials, etc)
+
+- https://www.gnuradio.org/
+- https://wiki.gnuradio.org/index.php/InstallingGR
+- http://www.ece.uvic.ca/~elec350/lab_manual/ar01s01s02.html
+- https://files.ettus.com/tutorials/labs/Lab_1-5.pdf
+- https://www.rtl-sdr.com/tutorial-creating-fm-receiver-gnuradio-rtl-sdr/
+- http://www.instructables.com/id/RTL-SDR-FM-radio-receiver-with-GNU-Radio-Companion/
+- https://www.rs-online.com/designspark/taking-the-raspberry-pi-2-for-a-test-drive-with-gnu-radio-2
+
+
 #### Miscellaneous
 
 - https://www.nasa.gov/feature/goddard/2017/nasas-high-altitude-plane-takes-to-the-sky-for-goes-16-field-campaign
+- https://www.ab9il.net/wlan-projects/wifi3A.html
+- https://hackaday.com/tag/software-defined-radio/
+- https://archive.org/details/Hacking_The_Wireless_World
+- https://hackaday.io/projects?tag=SDR WOW! I'm drooling!
+- http://console-cowboys.blogspot.com/2017/10/hacking-everything-with-rf-and-software.html
+- http://www.terminally-incoherent.com/blog/2007/08/07/few-useful-netcat-tricks/
+- https://www.youtube.com/watch?v=t0_Xfr0MrmM - I made this video! Evading firewalls :)
+- https://null-byte.wonderhowto.com/how-to/hack-radio-frequencies-hijacking-fm-radio-with-raspberry-pi-wire-0177007/
+- https://hackaday.com/category/radio-hacks/ - Damn! This link is so cool!
+- https://somafm.com/defcon/ - Music for H4ck1ng ¯\_(ツ)_/¯
