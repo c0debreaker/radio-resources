@@ -144,3 +144,4 @@
 - https://null-byte.wonderhowto.com/how-to/hack-radio-frequencies-hijacking-fm-radio-with-raspberry-pi-wire-0177007/
 - https://hackaday.com/category/radio-hacks/ - Damn! This link is so cool!
 - https://somafm.com/defcon/ - Music for H4ck1ng ¯\_(ツ)_/¯
+- https://howtoraspberrypi.com/create-radio-transmitter-raspberry-pi/ - Radio transmission using Pi
