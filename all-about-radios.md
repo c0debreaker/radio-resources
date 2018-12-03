@@ -24,6 +24,9 @@
 - **Receiving GOES Weather Satellite images with a small grid antenna**  
   https://www.rtl-sdr.com/receiving-goes-weather-satellite-images-with-a-small-grid-antenna-and-an-airspy-mini/
 
+- **Using GOESTOOLS to receive earth images transmitted by GOES satellites**
+  https://pietern.github.io/goestools/guides/minimal_receiver.html
+
 - **Setting up a GOES Weather Satellite antenna system**  
   https://www.rtl-sdr.com/setting-up-a-goes-weather-satellite-antenna-system/
 
